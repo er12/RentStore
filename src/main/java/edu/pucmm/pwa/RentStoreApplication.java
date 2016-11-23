@@ -8,5 +8,6 @@ public class RentStoreApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RentStoreApplication.class, args);
+		System.out.println("Finished");
 	}
 }
